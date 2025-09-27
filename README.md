@@ -40,3 +40,7 @@ L (Load)	         Power BI	                   Connects directly to the Databrick
 
 ![WhatsApp Image 2025-09-27 at 08 26 32_96c9da83](https://github.com/user-attachments/assets/ab9eadcf-1131-46f6-92f5-2fc80351798a)
 
+![WhatsApp Image 2025-09-27 at 08 32 53_3bfe1239](https://github.com/user-attachments/assets/02c83240-7536-4b3e-9fcb-d1f94003310d)
+
+![WhatsApp Image 2025-09-27 at 08 31 39_9875dd6b](https://github.com/user-attachments/assets/d6bd5797-1d9d-435e-a5b3-9a802e4b8936)
+
